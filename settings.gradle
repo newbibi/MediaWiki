@@ -1,0 +1,3 @@
+rootProject.name='MediaWiki'
+include ':stdapp'
+include ':mediawiki-sdk'
